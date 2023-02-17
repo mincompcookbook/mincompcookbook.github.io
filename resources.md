@@ -41,7 +41,7 @@ permalink: /resources
 [Conversion of a heritage digital collection to a static site using minimal computing principles](https://marii.info/notes/the-summer-of-puppets)
 
 [Digital El Diario, an archival digital humanities project that uses minimal computing principles](https://digitaleldiario.com/)
-Minimal Computing as Reparative Practice (Workshop) https://www.youtube.com/watch?v=Pb2ISQdteoI
+[Minimal Computing as Reparative Practice (Workshop)](https://www.youtube.com/watch?v=Pb2ISQdteoI)
 
 [Workshop exploring plaintext in connection to minimal computing](https://varia.zone/en/plaintext-partyline.html)
 
