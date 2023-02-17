@@ -1,3 +1,6 @@
+layout: page
+title: "Resources"
+permalink: /resources
 **Roots of Minimal Computing**
 
 A guide to sustainable authorship using markdown, referenced as inspiration in foundational texts of the Minimal Computing Working Group https://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown
