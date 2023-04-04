@@ -2,22 +2,32 @@
 //
 // VARIABLES
 //
+//Cookbook colors (new, added 4 April 2023)
+$brown: #6b2e12
+$buff: #f7caa8
+$teal: #8fd9ca
+$darkTeal: #17614a
 
-// Colors
-$blue: #4183C4;
+
+// Colors (old, from original template)
+// $blue: #4183C4;
 
 // Grays
 $black: #000;
-$darkerGray: #222;
-$darkGray: #333;
-$gray: #666;
-$lightGray: #eee;
-$white: #fff;
+// $darkerGray: #222;
+// $darkGray: #333;
+// $gray: #666;
+// $lightGray: #eee;
+// $white: #fff;
 
-// Font stacks
-$helvetica: Helvetica, Arial, sans-serif;
-$helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
-$georgia: Georgia, serif;
+// Font stacks (new)
+$inconsolata: Inconsolata, sans-serif;
+$inconsolataBold: Inconsolata Black 900, sans-serif;
+
+// Font stacks (old)
+// $helvetica: Helvetica, Arial, sans-serif;
+// $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
+// $georgia: Georgia, serif;
 
 // Mobile breakpoints
 @mixin mobile {
