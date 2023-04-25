@@ -56,4 +56,4 @@ If you want to get started making your own website using minimal computing princ
 [Wax](https://minicomp.github.io/wax/): A workflow for digital exhibitions based on minimal computing principles. Ideal for projects with a wealth of images.  
 [Ed](https://minicomp.github.io/ed/): A Jekyll theme for creating digital editions on a static website mased on minimal computing principles. Designed to be easy to learn.  
 [Jekyll Now](https://www.jekyllnow.com/): A Jekyll theme, designed to be quick and easy to implement without extensive coding knowledge. Used to build this website. Not explicitly a minimal computing project, but can be leveraged for minimal computing purposes.  
-[No Connect](https://github.com/xpmethod/no-connect) A Jekyll template that works on a local computer or even a flash drive-that is, a downloadable website that works with no connection to the internet.
+[No Connect](https://github.com/xpmethod/no-connect): A Jekyll template that works on a local computer or even a flash drive-that is, a downloadable website that works with no connection to the internet.
