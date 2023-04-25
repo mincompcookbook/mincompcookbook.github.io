@@ -2,7 +2,7 @@ The following list comprises all of the minimal computing material I have been a
 While no attempt to document the development and applications of a concept like this can be completely exhaustive, I've tried to make this list as complete as I can, and I welcome new information. If you know of a new work using minimal computing not on this list, or if you've produced some yourself, please consider submitting it for inclusion here so that more interested readers can find it!
 
 To get an initial sense of what minimal computing is in the world of academia and its conceptual development in a nutshell, I highly recommend reading Alex Gil and Roopika Risam's [introduction to Digital Humanities Quarterly's recent Minimal Computing Special Issue](http://digitalhumanities.org/dhq/vol/16/2/000646/000646.html). They do a fantastic job of illuminating minimal computing's possibilities beyond the creation of simpler websites, as well as addressing potential pitfalls and gaps in existing work on minimal computing. 
-If you want to get started making your own website using minimal computing principles, Take look at the tools section below to see which might best fit your project!
+If you want to get started making your own website using minimal computing principles, Take look at the Tools section below to see which might best fit your project!
 
 ## Roots of Minimal Computing
 
@@ -22,7 +22,7 @@ If you want to get started making your own website using minimal computing princ
 
 [Call for papers for a minimal computing special issue of Learning, Media, and Technology (eds. Bessette and Risam)](https://think.taylorandfrancis.com/special_issues/learning-media-technology/?utm_source=TFO&utm_medium=cms&utm_campaign=JPG15743)
 
-##Course Materials and Pedagogy
+## Course Materials and Pedagogy
 
 [Materials from a minimal computing seminar taught by Jentery Sayers, 2017.](https://jntry.work/minimalcomputing/)
 
