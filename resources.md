@@ -1,4 +1,3 @@
-# Resources
 The following list comprises all of the minimal computing material I have been able to find in my research for this project. This includes scholarly articles and blog posts engaging with minimal computing as theory and heuristic; records of lectures, presentations, and conference talks about minimal computing; case studies and reports on practical and pedagogical applications of minimal computing; and projects which claim minimal computing as a key component or influence. There are also some tools here that were developed specifically for minimal computing projects.
 While no attempt to document the development and applications of a concept like this can be completely exhaustive, I've tried to make this list as complete as I can, and I welcome new information. If you know of a new work using minimal computing not on this list, or if you've produced some yourself, please consider submitting it for inclusion here so that more interested readers can find it!
 
@@ -54,7 +53,7 @@ If you want to get started making your own website using minimal computing princ
 
 
 ## Tools
-[Wax] (https://minicomp.github.io/wax/): A workflow for digital exhibitions based on minimal computing principles. Ideal for projects with a wealth of images.
-[Ed] (https://minicomp.github.io/ed/): A Jekyll theme for creating digital editions on a static website mased on minimal computing principles. Designed to be easy to learn.
-[Jekyll Now] (https://www.jekyllnow.com/): A Jekyll theme, designed to be quick and easy to implement without extensive coding knowledge. Used to build this website. Not explicitly a minimal computing project, but can be leveraged for minimal computing purposes.
-[No Connect] (https://github.com/xpmethod/no-connect) A Jekyll template that works on a local computer or even a flash drive-that is, a downloadable website that works with no connection to the internet.
+[Wax](https://minicomp.github.io/wax/): A workflow for digital exhibitions based on minimal computing principles. Ideal for projects with a wealth of images.  
+[Ed](https://minicomp.github.io/ed/): A Jekyll theme for creating digital editions on a static website mased on minimal computing principles. Designed to be easy to learn.  
+[Jekyll Now](https://www.jekyllnow.com/): A Jekyll theme, designed to be quick and easy to implement without extensive coding knowledge. Used to build this website. Not explicitly a minimal computing project, but can be leveraged for minimal computing purposes.  
+[No Connect](https://github.com/xpmethod/no-connect) A Jekyll template that works on a local computer or even a flash drive-that is, a downloadable website that works with no connection to the internet.
