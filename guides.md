@@ -1,3 +1,5 @@
+<detail> 
+  <summary>Guide 1: MinComp TipSheet</summary>
 **Ways to Begin Implementing Minimal Computing Into Your Workflow, from Easy to Extra**
 
 The following are some actionable tips, some inspired by real minimal computing projects, that individuals can use to incorporate minimal computing in their research, teaching, or other areas of their digital life. I would like to recognize that although individual actions and taking responsibility for one’s personal digital footprint can be empowering, rewarding, and a useful proof of concept, they are not the only work that needs to be done to mitigate the issues minimal computing sets out to address (inequity in tech access, erosion of user privacy and agency, and environmental impact of digital media, among others). 
@@ -23,3 +25,4 @@ I will address these larger issues and how to engage with them in a later post, 
 9. If you’re in the market for a computer build project, look into Raspberry Pis, which have been used to good effect in pedagogical contexts.
 
 10. For a major project, try building your own server! This could be a great class project and if properly maintained could host digital materials for teaching or research, digital editions, or anything else you want to make available online.
+  </detail>
