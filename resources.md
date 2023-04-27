@@ -1,4 +1,4 @@
-## Preface
+## Resources
 The following list comprises all of the minimal computing material I have been able to find in my research for this project. This includes scholarly articles and blog posts engaging with minimal computing as theory and heuristic; records of lectures, presentations, and conference talks about minimal computing; case studies and reports on practical and pedagogical applications of minimal computing; and projects which claim minimal computing as a key component or influence. There are also some tools here that were developed specifically for minimal computing projects.
 While no attempt to document the development and applications of a concept like this can be completely exhaustive, I've tried to make this list as complete as I can, and I welcome new information. If you know of a new work using minimal computing not on this list, or if you've produced some yourself, please consider submitting it for inclusion here so that more interested readers can find it!
 
